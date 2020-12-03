@@ -34,6 +34,7 @@
   <ItemGroup>
     <Content Include="README.md" />
     <Content Include="requirements.txt" />
+    <Content Include="screenshot-home.JPG" />
     <Content Include="static\content\bootstrap.min.css" />
     <Content Include="static\content\site.css" />
     <Content Include="static\content\bootstrap.css">
