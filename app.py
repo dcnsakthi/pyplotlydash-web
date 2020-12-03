@@ -15,7 +15,7 @@ header=dbc.Container(
                   [
                      html.H1("dcnsakthi.co"),
                      html.P(
-                         """This is skeleton for Python Plotly Dash Web sites and Web applications usung Bootsrap, Core and HTML Components.""",
+                         """This is skeleton for Python Plotly-Dash Web sites and Web applications using Bootstrap, Core and HTML Components.""",
                          className="lead",
                            ),
                            dbc.Button("Learn more »", color="secondary", className="btn btn-primary btn-large"),
